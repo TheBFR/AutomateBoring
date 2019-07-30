@@ -1,0 +1,5 @@
+There once was a man that ran some code that created a node, what did this node do know one knows as he put no comments and used really shitty non-descriptive varibales.... thanks ahole. 
+
+So now is the time for all good and not so good python programmers to come to the aid of well.. who ever needs it. 
+
+Last thing before we go, if a program errors and no one is there to see the error did is make a sound?
